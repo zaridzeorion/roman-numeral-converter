@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/roman-numeral-converter/static/css/main.b6306014.chunk.css",
+    "main.js": "/roman-numeral-converter/static/js/main.fd37afdf.chunk.js",
+    "main.js.map": "/roman-numeral-converter/static/js/main.fd37afdf.chunk.js.map",
+    "runtime-main.js": "/roman-numeral-converter/static/js/runtime-main.948271db.js",
+    "runtime-main.js.map": "/roman-numeral-converter/static/js/runtime-main.948271db.js.map",
+    "static/js/2.d7369dc1.chunk.js": "/roman-numeral-converter/static/js/2.d7369dc1.chunk.js",
+    "static/js/2.d7369dc1.chunk.js.map": "/roman-numeral-converter/static/js/2.d7369dc1.chunk.js.map",
+    "index.html": "/roman-numeral-converter/index.html",
+    "static/css/main.b6306014.chunk.css.map": "/roman-numeral-converter/static/css/main.b6306014.chunk.css.map",
+    "static/js/2.d7369dc1.chunk.js.LICENSE.txt": "/roman-numeral-converter/static/js/2.d7369dc1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.948271db.js",
+    "static/js/2.d7369dc1.chunk.js",
+    "static/css/main.b6306014.chunk.css",
+    "static/js/main.fd37afdf.chunk.js"
+  ]
+}
